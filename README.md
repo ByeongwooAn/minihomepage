@@ -7,3 +7,7 @@ RH +B형
 ## 좋아하는 음식
 
 -   치킨
+
+## 좋아하는 게임
+
+-   World of Warcraft
