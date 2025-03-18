@@ -28,6 +28,12 @@
 -   siderbar.md 추가
 -   카테고리 추가
 
+## SEARCH 개발
+
+-   search.md 추가
+-   검색 창 추가
+-   검색 기능 추가
+
 ## 혈액형
 
 RH +B형
